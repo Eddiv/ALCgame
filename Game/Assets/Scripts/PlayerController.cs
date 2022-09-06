@@ -8,6 +8,8 @@ public class PlayerController : MonoBehaviour
     public float rotSpeed;
     public float hInput;
     public float vInput;
+    public float jumpForce;
+    public Rigidbody playerRB; 
 
 
     // Update is called once per frame
@@ -19,5 +21,8 @@ public class PlayerController : MonoBehaviour
         transform.Rotate(Vector3.up, rotSpeed * hInput * Time.deltaTime);
         transform.Translate(Vector3.forward * speed * vInput * Time.deltaTime);
 
+        if(Input.GetKeyDown(KeyCode.Space)){
+            playerRB.AddForce(Vector3.forward * jumpForce, ForceMode.Impulse);
+        }
     }
 }
