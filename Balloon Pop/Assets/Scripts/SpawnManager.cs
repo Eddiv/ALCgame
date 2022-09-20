@@ -11,7 +11,7 @@ public class SpawnManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("SpawnRandomBalloon", startDelay. SpawnInterval); //Continuosly spawns balloons with a start delay and interval delay
+        InvokeRepeating("SpawnRandomBalloon", startDelay, spawnInterval); //Continuosly spawns balloons with a start delay and interval delay
     }
 
     // Update is called once per frame
