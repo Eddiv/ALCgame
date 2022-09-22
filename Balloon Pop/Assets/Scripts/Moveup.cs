@@ -11,7 +11,7 @@ public class Moveup : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        scoreManager = GameObject.Find("ScoreMamager").GetComponent<ScoreManager>();
+        scoreManager = GameObject.Find("ScoreManager").GetComponent<ScoreManager>();
         balloon = GetComponent<Balloon>();
     }
 
