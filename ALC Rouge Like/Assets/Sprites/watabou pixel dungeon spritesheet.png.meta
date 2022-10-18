@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -43768,8 +43768,8 @@ TextureImporter:
       watabou pixel dungeon spritesheet_612: -1037194151
       watabou pixel dungeon spritesheet_1733: -1073409636
       watabou pixel dungeon spritesheet_1212: -806467060
-      watabou pixel dungeon spritesheet_431: 374828910
       watabou pixel dungeon spritesheet_1657: 242935331
+      watabou pixel dungeon spritesheet_431: 374828910
       watabou pixel dungeon spritesheet_699: 1093958230
       watabou pixel dungeon spritesheet_737: -848422358
       watabou pixel dungeon spritesheet_1875: -1703804150
@@ -43883,8 +43883,8 @@ TextureImporter:
       watabou pixel dungeon spritesheet_181: 115557921
       watabou pixel dungeon spritesheet_1538: -234281195
       watabou pixel dungeon spritesheet_795: 1563458763
-      watabou pixel dungeon spritesheet_1253: 987524703
       watabou pixel dungeon spritesheet_1928: 175836729
+      watabou pixel dungeon spritesheet_1253: 987524703
       watabou pixel dungeon spritesheet_1742: -2076015741
       watabou pixel dungeon spritesheet_418: -1300732291
       watabou pixel dungeon spritesheet_1656: 1576097693
@@ -43925,31 +43925,31 @@ TextureImporter:
       watabou pixel dungeon spritesheet_596: -424187293
       watabou pixel dungeon spritesheet_1823: 494576582
       watabou pixel dungeon spritesheet_326: -1667521104
-      watabou pixel dungeon spritesheet_1954: -537704406
+      watabou pixel dungeon spritesheet_1966: 209341040
       watabou pixel dungeon spritesheet_40: -1969287574
       watabou pixel dungeon spritesheet_935: 908130907
-      watabou pixel dungeon spritesheet_1031: -1461033707
       watabou pixel dungeon spritesheet_1502: -2070361745
-      watabou pixel dungeon spritesheet_1921: 1227215791
+      watabou pixel dungeon spritesheet_1031: -1461033707
       watabou pixel dungeon spritesheet_1476: -1221976677
       watabou pixel dungeon spritesheet_128: -429179439
       watabou pixel dungeon spritesheet_554: -1788339843
       watabou pixel dungeon spritesheet_26: 969080662
       watabou pixel dungeon spritesheet_43: 2081157099
       watabou pixel dungeon spritesheet_1246: -529547454
+      watabou pixel dungeon spritesheet_1921: 1227215791
       watabou pixel dungeon spritesheet_1245: -615922851
-      watabou pixel dungeon spritesheet_1966: 209341040
       watabou pixel dungeon spritesheet_17: -152319362
       watabou pixel dungeon spritesheet_2031: 1387274415
       watabou pixel dungeon spritesheet_713: -1072713427
       watabou pixel dungeon spritesheet_30: 1191624403
       watabou pixel dungeon spritesheet_1884: -330294636
       watabou pixel dungeon spritesheet_1985: 202635421
+      watabou pixel dungeon spritesheet_1954: -537704406
       watabou pixel dungeon spritesheet_658: -342225837
-      watabou pixel dungeon spritesheet_896: 342120108
       watabou pixel dungeon spritesheet_1780: 552057542
       watabou pixel dungeon spritesheet_1559: -1211660641
       watabou pixel dungeon spritesheet_1214: 1707396107
+      watabou pixel dungeon spritesheet_896: 342120108
       watabou pixel dungeon spritesheet_743: 1748858834
       watabou pixel dungeon spritesheet_927: -340662831
       watabou pixel dungeon spritesheet_1379: 757569797
@@ -44131,11 +44131,11 @@ TextureImporter:
       watabou pixel dungeon spritesheet_993: 854263068
       watabou pixel dungeon spritesheet_618: 548170108
       watabou pixel dungeon spritesheet_1314: 909231678
-      watabou pixel dungeon spritesheet_1822: 984377148
+      watabou pixel dungeon spritesheet_1993: 89919385
       watabou pixel dungeon spritesheet_1447: 1650630708
       watabou pixel dungeon spritesheet_197: 1158297527
       watabou pixel dungeon spritesheet_974: -1884571283
-      watabou pixel dungeon spritesheet_1993: 89919385
+      watabou pixel dungeon spritesheet_1822: 984377148
       watabou pixel dungeon spritesheet_582: -2147300774
       watabou pixel dungeon spritesheet_1756: 173765341
       watabou pixel dungeon spritesheet_2028: 2032092690
@@ -44170,9 +44170,9 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1289: 1408726153
       watabou pixel dungeon spritesheet_1138: -1586086754
       watabou pixel dungeon spritesheet_956: 1677522970
+      watabou pixel dungeon spritesheet_1872: 796224094
       watabou pixel dungeon spritesheet_934: 1916411386
       watabou pixel dungeon spritesheet_1923: -163267612
-      watabou pixel dungeon spritesheet_1872: 796224094
       watabou pixel dungeon spritesheet_1049: -11135543
       watabou pixel dungeon spritesheet_1932: 1285565876
       watabou pixel dungeon spritesheet_1926: 1533092915
@@ -44197,10 +44197,10 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1172: 917924823
       watabou pixel dungeon spritesheet_1166: -1012047996
       watabou pixel dungeon spritesheet_307: -1095659876
+      watabou pixel dungeon spritesheet_1104: 1343677364
       watabou pixel dungeon spritesheet_1051: 340971937
       watabou pixel dungeon spritesheet_425: 639102103
       watabou pixel dungeon spritesheet_1002: -1822550476
-      watabou pixel dungeon spritesheet_1104: 1343677364
       watabou pixel dungeon spritesheet_852: 1076298304
       watabou pixel dungeon spritesheet_1216: 1456933646
       watabou pixel dungeon spritesheet_125: -2131848723
@@ -44254,35 +44254,34 @@ TextureImporter:
       watabou pixel dungeon spritesheet_382: -1927062124
       watabou pixel dungeon spritesheet_1114: 907454723
       watabou pixel dungeon spritesheet_1853: 292959721
-      watabou pixel dungeon spritesheet_226: -868423063
-      watabou pixel dungeon spritesheet_735: 1218124135
-      watabou pixel dungeon spritesheet_247: -2037908447
       watabou pixel dungeon spritesheet_2047: -1175134264
+      watabou pixel dungeon spritesheet_226: -868423063
+      watabou pixel dungeon spritesheet_247: -2037908447
+      watabou pixel dungeon spritesheet_735: 1218124135
       watabou pixel dungeon spritesheet_84: -138233658
-      watabou pixel dungeon spritesheet_177: 113518223
       watabou pixel dungeon spritesheet_341: 994134357
       watabou pixel dungeon spritesheet_610: 1935468367
       watabou pixel dungeon spritesheet_668: 1477379986
-      watabou pixel dungeon spritesheet_1318: -581456068
-      watabou pixel dungeon spritesheet_740: -949558493
+      watabou pixel dungeon spritesheet_1869: 504060503
       watabou pixel dungeon spritesheet_1445: -169627803
+      watabou pixel dungeon spritesheet_1318: -581456068
       watabou pixel dungeon spritesheet_854: -2118238621
       watabou pixel dungeon spritesheet_216: -675004005
-      watabou pixel dungeon spritesheet_1958: 1872923467
-      watabou pixel dungeon spritesheet_1869: 504060503
+      watabou pixel dungeon spritesheet_177: 113518223
       watabou pixel dungeon spritesheet_6: -1389079410
       watabou pixel dungeon spritesheet_902: -692100597
+      watabou pixel dungeon spritesheet_740: -949558493
       watabou pixel dungeon spritesheet_308: -61629954
       watabou pixel dungeon spritesheet_661: -1777969186
       watabou pixel dungeon spritesheet_1169: 517168848
+      watabou pixel dungeon spritesheet_1958: 1872923467
       watabou pixel dungeon spritesheet_1071: -374693272
       watabou pixel dungeon spritesheet_1943: -1855129230
       watabou pixel dungeon spritesheet_138: 67841217
-      watabou pixel dungeon spritesheet_738: 375491542
       watabou pixel dungeon spritesheet_1359: -1847712105
-      watabou pixel dungeon spritesheet_805: -631426750
       watabou pixel dungeon spritesheet_1899: 1730920416
-      watabou pixel dungeon spritesheet_1732: -213083145
+      watabou pixel dungeon spritesheet_738: 375491542
+      watabou pixel dungeon spritesheet_805: -631426750
       watabou pixel dungeon spritesheet_1338: 718409737
       watabou pixel dungeon spritesheet_210: -16672669
       watabou pixel dungeon spritesheet_2063: -1981572868
@@ -44290,10 +44289,10 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1521: -2135621972
       watabou pixel dungeon spritesheet_366: 1545553803
       watabou pixel dungeon spritesheet_1148: -1727432283
-      watabou pixel dungeon spritesheet_1463: 1220898851
-      watabou pixel dungeon spritesheet_547: 1470879755
-      watabou pixel dungeon spritesheet_1736: 867996597
       watabou pixel dungeon spritesheet_1529: 1731961728
+      watabou pixel dungeon spritesheet_547: 1470879755
+      watabou pixel dungeon spritesheet_1463: 1220898851
+      watabou pixel dungeon spritesheet_1736: 867996597
       watabou pixel dungeon spritesheet_173: 2091968512
       watabou pixel dungeon spritesheet_1963: 831071492
       watabou pixel dungeon spritesheet_165: 704170768
@@ -44302,6 +44301,7 @@ TextureImporter:
       watabou pixel dungeon spritesheet_5: 2124048302
       watabou pixel dungeon spritesheet_1655: 595515461
       watabou pixel dungeon spritesheet_1412: 379173498
+      watabou pixel dungeon spritesheet_1732: -213083145
       watabou pixel dungeon spritesheet_171: -1997941871
       watabou pixel dungeon spritesheet_1040: 191916164
       watabou pixel dungeon spritesheet_204: 1204623029
@@ -44638,35 +44638,35 @@ TextureImporter:
       watabou pixel dungeon spritesheet_154: 1361163461
       watabou pixel dungeon spritesheet_320: 728497616
       watabou pixel dungeon spritesheet_1818: 1485983587
-      watabou pixel dungeon spritesheet_1900: 289640710
+      watabou pixel dungeon spritesheet_1944: 1572854171
       watabou pixel dungeon spritesheet_1746: 1766810548
       watabou pixel dungeon spritesheet_722: -1386404742
       watabou pixel dungeon spritesheet_1772: -1801365191
       watabou pixel dungeon spritesheet_1845: -1629157811
+      watabou pixel dungeon spritesheet_1900: 289640710
       watabou pixel dungeon spritesheet_1140: -1418942142
       watabou pixel dungeon spritesheet_305: 1450866031
       watabou pixel dungeon spritesheet_1757: 2043528285
       watabou pixel dungeon spritesheet_2044: 1818494941
       watabou pixel dungeon spritesheet_281: -1609448834
-      watabou pixel dungeon spritesheet_714: -189213653
       watabou pixel dungeon spritesheet_1948: -2060240470
+      watabou pixel dungeon spritesheet_714: -189213653
       watabou pixel dungeon spritesheet_135: 1950095562
       watabou pixel dungeon spritesheet_340: -1836559597
       watabou pixel dungeon spritesheet_293: -244715650
       watabou pixel dungeon spritesheet_401: -1593992388
-      watabou pixel dungeon spritesheet_1054: -727258066
-      watabou pixel dungeon spritesheet_1571: 1755594244
       watabou pixel dungeon spritesheet_1207: -2029058451
+      watabou pixel dungeon spritesheet_1054: -727258066
+      watabou pixel dungeon spritesheet_1629: -1759073355
       watabou pixel dungeon spritesheet_71: -609255430
       watabou pixel dungeon spritesheet_1134: -1130422767
-      watabou pixel dungeon spritesheet_1944: 1572854171
+      watabou pixel dungeon spritesheet_1571: 1755594244
       watabou pixel dungeon spritesheet_160: -1128462873
-      watabou pixel dungeon spritesheet_893: 1569869043
+      watabou pixel dungeon spritesheet_1766: 706857883
       watabou pixel dungeon spritesheet_746: -320346228
-      watabou pixel dungeon spritesheet_1629: -1759073355
+      watabou pixel dungeon spritesheet_893: 1569869043
       watabou pixel dungeon spritesheet_1192: 1795678409
       watabou pixel dungeon spritesheet_448: -2020181857
-      watabou pixel dungeon spritesheet_1766: 706857883
       watabou pixel dungeon spritesheet_1160: 283186886
       watabou pixel dungeon spritesheet_1470: 625965100
       watabou pixel dungeon spritesheet_1774: 1592773554
@@ -44713,15 +44713,15 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1197: 1023243457
       watabou pixel dungeon spritesheet_141: -932072591
       watabou pixel dungeon spritesheet_1734: -106845467
-      watabou pixel dungeon spritesheet_772: -1425754108
+      watabou pixel dungeon spritesheet_1409: 112255832
       watabou pixel dungeon spritesheet_1417: 1471862268
       watabou pixel dungeon spritesheet_168: 1141288495
       watabou pixel dungeon spritesheet_1613: 1934409613
+      watabou pixel dungeon spritesheet_772: -1425754108
       watabou pixel dungeon spritesheet_278: 63767275
       watabou pixel dungeon spritesheet_300: -87572767
       watabou pixel dungeon spritesheet_623: 1132148258
       watabou pixel dungeon spritesheet_1369: 1417958070
-      watabou pixel dungeon spritesheet_1409: 112255832
       watabou pixel dungeon spritesheet_457: -1036924232
       watabou pixel dungeon spritesheet_433: -1698722549
       watabou pixel dungeon spritesheet_1860: -1227125433
@@ -44732,14 +44732,14 @@ TextureImporter:
       watabou pixel dungeon spritesheet_754: -739319824
       watabou pixel dungeon spritesheet_145: -502943129
       watabou pixel dungeon spritesheet_850: -1821971898
-      watabou pixel dungeon spritesheet_1196: 952321990
       watabou pixel dungeon spritesheet_1851: -94262556
       watabou pixel dungeon spritesheet_567: 1153161636
-      watabou pixel dungeon spritesheet_1755: -920207854
+      watabou pixel dungeon spritesheet_1898: 54657340
       watabou pixel dungeon spritesheet_544: 832034057
       watabou pixel dungeon spritesheet_1070: 1783390804
       watabou pixel dungeon spritesheet_1058: -1093140642
-      watabou pixel dungeon spritesheet_2013: -783639824
+      watabou pixel dungeon spritesheet_1755: -920207854
+      watabou pixel dungeon spritesheet_1196: 952321990
       watabou pixel dungeon spritesheet_1544: 1024933286
       watabou pixel dungeon spritesheet_717: 800317885
       watabou pixel dungeon spritesheet_1354: -1689721477
@@ -44747,7 +44747,7 @@ TextureImporter:
       watabou pixel dungeon spritesheet_384: -1248455308
       watabou pixel dungeon spritesheet_1388: -1731924068
       watabou pixel dungeon spritesheet_570: 355561541
-      watabou pixel dungeon spritesheet_1898: 54657340
+      watabou pixel dungeon spritesheet_2013: -783639824
       watabou pixel dungeon spritesheet_995: 1598619170
       watabou pixel dungeon spritesheet_891: -1621190335
       watabou pixel dungeon spritesheet_1023: 1735157765
@@ -44760,17 +44760,18 @@ TextureImporter:
       watabou pixel dungeon spritesheet_747: -1182785883
       watabou pixel dungeon spritesheet_462: -893065310
       watabou pixel dungeon spritesheet_1758: -248333731
-      watabou pixel dungeon spritesheet_1826: -68014472
+      watabou pixel dungeon spritesheet_1895: -1980045909
       watabou pixel dungeon spritesheet_635: 349876238
+      watabou pixel dungeon spritesheet_1826: -68014472
       watabou pixel dungeon spritesheet_791: 415352165
       watabou pixel dungeon spritesheet_913: -136593653
-      watabou pixel dungeon spritesheet_1895: -1980045909
       watabou pixel dungeon spritesheet_2045: -18546686
       watabou pixel dungeon spritesheet_1025: 581094076
       watabou pixel dungeon spritesheet_1905: -1483368575
       watabou pixel dungeon spritesheet_953: -370435601
-      watabou pixel dungeon spritesheet_869: 1590320331
       watabou pixel dungeon spritesheet_1689: 408274673
+      watabou pixel dungeon spritesheet_869: 1590320331
+      watabou pixel dungeon spritesheet_2055: -1733352970
       watabou pixel dungeon spritesheet_563: 202127017
       watabou pixel dungeon spritesheet_1439: 1118095698
       watabou pixel dungeon spritesheet_1810: 372946563
@@ -44785,12 +44786,11 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1151: -411944174
       watabou pixel dungeon spritesheet_1342: 1525420737
       watabou pixel dungeon spritesheet_1522: 1507833827
-      watabou pixel dungeon spritesheet_692: -1863532909
-      watabou pixel dungeon spritesheet_1135: -239418829
       watabou pixel dungeon spritesheet_1600: 1482128017
+      watabou pixel dungeon spritesheet_692: -1863532909
       watabou pixel dungeon spritesheet_653: -198498515
       watabou pixel dungeon spritesheet_1512: 939439827
-      watabou pixel dungeon spritesheet_1452: -177131815
+      watabou pixel dungeon spritesheet_1135: -239418829
       watabou pixel dungeon spritesheet_687: 429128964
       watabou pixel dungeon spritesheet_1950: 1605940341
       watabou pixel dungeon spritesheet_987: 1971743004
@@ -44801,14 +44801,14 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1108: -1783799057
       watabou pixel dungeon spritesheet_105: 779480061
       watabou pixel dungeon spritesheet_1395: -2099695020
-      watabou pixel dungeon spritesheet_235: -2099720023
+      watabou pixel dungeon spritesheet_1452: -177131815
       watabou pixel dungeon spritesheet_728: -625047423
       watabou pixel dungeon spritesheet_1622: 531084665
-      watabou pixel dungeon spritesheet_697: -717351838
+      watabou pixel dungeon spritesheet_1747: 79572354
       watabou pixel dungeon spritesheet_1362: 1215129974
       watabou pixel dungeon spritesheet_1997: 1307956464
       watabou pixel dungeon spritesheet_959: -535135717
-      watabou pixel dungeon spritesheet_1504: 567087829
+      watabou pixel dungeon spritesheet_697: -717351838
       watabou pixel dungeon spritesheet_158: -480578375
       watabou pixel dungeon spritesheet_426: 1100168117
       watabou pixel dungeon spritesheet_550: -1777473249
@@ -44816,28 +44816,28 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1309: -996928086
       watabou pixel dungeon spritesheet_479: -1636541411
       watabou pixel dungeon spritesheet_732: -1756592657
+      watabou pixel dungeon spritesheet_1504: 567087829
       watabou pixel dungeon spritesheet_444: 1320699019
       watabou pixel dungeon spritesheet_1469: 1815358773
       watabou pixel dungeon spritesheet_1887: -831432952
       watabou pixel dungeon spritesheet_761: 167524701
-      watabou pixel dungeon spritesheet_897: -1667633533
+      watabou pixel dungeon spritesheet_1848: -1513297623
       watabou pixel dungeon spritesheet_739: -1162118186
       watabou pixel dungeon spritesheet_1517: 990350412
       watabou pixel dungeon spritesheet_925: 1039638209
       watabou pixel dungeon spritesheet_957: -1799376357
-      watabou pixel dungeon spritesheet_1848: -1513297623
+      watabou pixel dungeon spritesheet_897: -1667633533
       watabou pixel dungeon spritesheet_45: 354867291
       watabou pixel dungeon spritesheet_373: 1873192092
       watabou pixel dungeon spritesheet_868: -1927270455
       watabou pixel dungeon spritesheet_1560: 882075977
+      watabou pixel dungeon spritesheet_235: -2099720023
       watabou pixel dungeon spritesheet_1695: 107332791
-      watabou pixel dungeon spritesheet_2055: -1733352970
       watabou pixel dungeon spritesheet_519: 33346287
       watabou pixel dungeon spritesheet_1128: -1450402617
       watabou pixel dungeon spritesheet_1633: 1391052284
       watabou pixel dungeon spritesheet_1323: -451194815
       watabou pixel dungeon spritesheet_1536: 57429990
-      watabou pixel dungeon spritesheet_1747: 79572354
       watabou pixel dungeon spritesheet_316: 79072803
       watabou pixel dungeon spritesheet_477: 1495236904
       watabou pixel dungeon spritesheet_1918: 1698265763
@@ -44855,9 +44855,9 @@ TextureImporter:
       watabou pixel dungeon spritesheet_193: -1665148604
       watabou pixel dungeon spritesheet_586: 90907036
       watabou pixel dungeon spritesheet_199: -2055624453
-      watabou pixel dungeon spritesheet_1590: 977651738
       watabou pixel dungeon spritesheet_1674: 1854072209
       watabou pixel dungeon spritesheet_149: 1533511868
+      watabou pixel dungeon spritesheet_1590: 977651738
       watabou pixel dungeon spritesheet_1238: 1254443971
       watabou pixel dungeon spritesheet_1730: 1732766984
       watabou pixel dungeon spritesheet_572: 428940017
@@ -44879,11 +44879,11 @@ TextureImporter:
       watabou pixel dungeon spritesheet_451: 873427037
       watabou pixel dungeon spritesheet_1594: -574531143
       watabou pixel dungeon spritesheet_1399: 1100910457
-      watabou pixel dungeon spritesheet_906: 1910347818
-      watabou pixel dungeon spritesheet_1972: 22805881
       watabou pixel dungeon spritesheet_1432: 328853263
+      watabou pixel dungeon spritesheet_906: 1910347818
       watabou pixel dungeon spritesheet_463: -1351917803
       watabou pixel dungeon spritesheet_1451: 2042466132
+      watabou pixel dungeon spritesheet_1972: 22805881
       watabou pixel dungeon spritesheet_1495: -429461355
       watabou pixel dungeon spritesheet_1789: 875550681
       watabou pixel dungeon spritesheet_700: 372233934
@@ -44891,25 +44891,25 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1763: -592915811
       watabou pixel dungeon spritesheet_1017: 922951769
       watabou pixel dungeon spritesheet_1005: 448326368
-      watabou pixel dungeon spritesheet_819: 1267026751
       watabou pixel dungeon spritesheet_1741: 542896632
+      watabou pixel dungeon spritesheet_819: 1267026751
       watabou pixel dungeon spritesheet_219: 1829693270
       watabou pixel dungeon spritesheet_178: 770195359
       watabou pixel dungeon spritesheet_207: -619588608
       watabou pixel dungeon spritesheet_1387: 651571938
-      watabou pixel dungeon spritesheet_1681: 1710205073
       watabou pixel dungeon spritesheet_1837: 1605792044
       watabou pixel dungeon spritesheet_1859: -361203039
       watabou pixel dungeon spritesheet_682: 120947171
       watabou pixel dungeon spritesheet_966: 943465208
+      watabou pixel dungeon spritesheet_1681: 1710205073
       watabou pixel dungeon spritesheet_685: 50563915
       watabou pixel dungeon spritesheet_1577: -1047062288
       watabou pixel dungeon spritesheet_778: -6979979
       watabou pixel dungeon spritesheet_731: 614597062
       watabou pixel dungeon spritesheet_1233: -2024519935
       watabou pixel dungeon spritesheet_202: -1896186815
-      watabou pixel dungeon spritesheet_940: 54291662
       watabou pixel dungeon spritesheet_1224: 426920166
+      watabou pixel dungeon spritesheet_940: 54291662
       watabou pixel dungeon spritesheet_1934: -892569350
       watabou pixel dungeon spritesheet_475: 1888385215
       watabou pixel dungeon spritesheet_2006: 383408223
@@ -44939,8 +44939,8 @@ TextureImporter:
       watabou pixel dungeon spritesheet_211: -1385615069
       watabou pixel dungeon spritesheet_873: -1869775281
       watabou pixel dungeon spritesheet_397: 422176437
-      watabou pixel dungeon spritesheet_1161: 287993722
       watabou pixel dungeon spritesheet_1804: 59599251
+      watabou pixel dungeon spritesheet_1161: 287993722
       watabou pixel dungeon spritesheet_297: 434125546
       watabou pixel dungeon spritesheet_1089: -1577032481
       watabou pixel dungeon spritesheet_1425: -629452913
@@ -44966,34 +44966,34 @@ TextureImporter:
       watabou pixel dungeon spritesheet_1119: 1173604803
       watabou pixel dungeon spritesheet_2032: -1648821356
       watabou pixel dungeon spritesheet_60: -921148072
-      watabou pixel dungeon spritesheet_256: 1385305862
-      watabou pixel dungeon spritesheet_1127: 817272421
-      watabou pixel dungeon spritesheet_362: 634645166
       watabou pixel dungeon spritesheet_1956: 1072074479
+      watabou pixel dungeon spritesheet_1127: 817272421
+      watabou pixel dungeon spritesheet_256: 1385305862
       watabou pixel dungeon spritesheet_1121: -300591590
       watabou pixel dungeon spritesheet_1392: -2025950271
+      watabou pixel dungeon spritesheet_362: 634645166
       watabou pixel dungeon spritesheet_724: 130644183
       watabou pixel dungeon spritesheet_1779: -648499008
       watabou pixel dungeon spritesheet_242: -500280026
       watabou pixel dungeon spritesheet_404: -69812677
       watabou pixel dungeon spritesheet_1032: 199349058
-      watabou pixel dungeon spritesheet_503: -419040021
+      watabou pixel dungeon spritesheet_1446: 935287495
       watabou pixel dungeon spritesheet_318: -446793144
       watabou pixel dungeon spritesheet_1415: -738948914
       watabou pixel dungeon spritesheet_924: -978382268
       watabou pixel dungeon spritesheet_1728: 777105639
       watabou pixel dungeon spritesheet_1337: -1307832217
-      watabou pixel dungeon spritesheet_1446: 935287495
+      watabou pixel dungeon spritesheet_503: -419040021
       watabou pixel dungeon spritesheet_812: 140938202
       watabou pixel dungeon spritesheet_679: 1673056890
       watabou pixel dungeon spritesheet_595: 1627868527
-      watabou pixel dungeon spritesheet_663: -1876230315
+      watabou pixel dungeon spritesheet_1478: -1503994069
+      watabou pixel dungeon spritesheet_1700: -1868929166
       watabou pixel dungeon spritesheet_371: 1863400218
       watabou pixel dungeon spritesheet_581: -2047757862
-      watabou pixel dungeon spritesheet_1478: -1503994069
-      watabou pixel dungeon spritesheet_2026: 578044783
-      watabou pixel dungeon spritesheet_1700: -1868929166
+      watabou pixel dungeon spritesheet_663: -1876230315
       watabou pixel dungeon spritesheet_1684: 916902052
+      watabou pixel dungeon spritesheet_2026: 578044783
       watabou pixel dungeon spritesheet_1183: 1573087211
       watabou pixel dungeon spritesheet_1634: 166069078
       watabou pixel dungeon spritesheet_882: -1894006867
