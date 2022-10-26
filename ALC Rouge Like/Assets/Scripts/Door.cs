@@ -5,11 +5,14 @@ using UnityEngine;
 public class Door : MonoBehaviour
 {
     private GameManager gm;
-
+    public Sprite doorOpen;
+    public Sprite doorClosed;
+    private SpriteRenderer spriteR;
 
     // Start is called before the first frame update
     void Start()
     {
+        spriteR = gameObject.GetComponent<SpriteRenderer>();
         gm = GameObject.Find("GameManager").GetComponent<GameManager>();        
     }
 
@@ -18,9 +21,10 @@ public class Door : MonoBehaviour
     {
         if(other.gameObject.CompareTag("Player") && gm.key >= 1)
         {
-            Destroy(gameObject);
+            this.enabled = false;
             gm.key --;
             Debug.Log("You have used a Key. You have "+ gm.key +"s" );
+            spriteR.sprite = doorOpen;
             Debug.Log("Door is open!");
         }
         else
