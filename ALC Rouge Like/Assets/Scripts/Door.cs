@@ -8,12 +8,14 @@ public class Door : MonoBehaviour
     public Sprite doorOpen;
     public Sprite doorClosed;
     private SpriteRenderer spriteR;
+    public GameObject boxCollider;
 
     // Start is called before the first frame update
     void Start()
     {
         spriteR = gameObject.GetComponent<SpriteRenderer>();
-        gm = GameObject.Find("GameManager").GetComponent<GameManager>();        
+        gm = GameObject.Find("GameManager").GetComponent<GameManager>();
+        
     }
 
     // Update is called once per frame
@@ -24,6 +26,7 @@ public class Door : MonoBehaviour
             this.enabled = false;
             gm.key --;
             Debug.Log("You have used a Key. You have "+ gm.key +"s" );
+            Destroy(boxCollider);
             spriteR.sprite = doorOpen;
             Debug.Log("Door is open!");
         }
