@@ -1,4 +1,4 @@
-/*using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -18,7 +18,7 @@ public class PlayerAttack : MonoBehaviour
         {
             if(Input.GetKey(KeyCode.Space))
             {
-                Collider2d[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.positon, attackRange, whatIsEnemies);
+                Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange, whatIsEnemies);
 
                 for(int i = 0; i < enemiesToDamage.Length; i++)
                 {
@@ -34,9 +34,10 @@ public class PlayerAttack : MonoBehaviour
         }
     }
     void OnDrawGizmosSelected() {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPos.position, attackRange);
         
     }
         
     
 }
-*/
