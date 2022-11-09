@@ -2,35 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Health : MonoBehaviour
+public class EnemyHealth : MonoBehaviour
 {
     public int maxHealth = 3;
     public int currentHealth;
-    public float deathDelay;
+    public float deathDelay = 0.5f;
     
     // Start is called before the first frame update
     void Start()
     {
        currentHealth = maxHealth;
-       Time.timeScale = 1f; 
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     public void TakeDamage(int dmgAmount)
     {
         currentHealth -= dmgAmount;
-        Debug.Log("Players Health" + currentHealth);
 
         if(currentHealth <= 0)
         {
-            Debug.Log("Game Over");
-            Time.timeScale = 0f;
-          //  Destroy(gameObject,deathDelay);
+          Destroy(gameObject,deathDelay);
         }
     }
     public void AddHealth(int healAmount)
