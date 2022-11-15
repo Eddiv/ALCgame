@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerAttack : MonoBehaviour
 {
     private float attackDelay;
-    private float startDelay;
+    public float startDelay;
     public Transform attackPos;
     public LayerMask whatIsEnemies;
     public float attackRange;
